@@ -14,3 +14,7 @@ Activities:
 - servo
 - household
 
+
+Lecture - 10 mins
+
+Activities 10 mins x 3
